@@ -1,0 +1,1 @@
+This folder contains the React.js frontend of SkillBridge AI including dashboards, resume upload, analytics, and AI chat interface.
